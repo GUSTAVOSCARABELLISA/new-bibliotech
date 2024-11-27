@@ -113,16 +113,12 @@ h1, .linha{
     gap: 50px
 }
 
-body {
-    font-size: 16px;
-    background-color: rgb(255, 248, 248);
-}
-
 @media (max-width: 600px) {
     body {
         font-size: 14px;
         background-color: rgb(0, 0, 0);
     }
 }
+
 
 
